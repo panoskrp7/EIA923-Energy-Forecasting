@@ -147,11 +147,8 @@ EIA923-Energy-Forecasting/
 
 ├── data/
 ├── notebooks/
-├── figures/
-├── results/
 ├── README.md
-└── requirements.txt
-```
+
 
 ---
 
