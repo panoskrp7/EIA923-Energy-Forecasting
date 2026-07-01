@@ -124,23 +124,7 @@ This indicates a statistically significant change in the U.S. electricity genera
 
 ---
 
-# Energy Transition Visualization
 
-![Energy Transition](figures/energy_transition.png)
-
----
-
-# Fuel Market Share Evolution
-
-![Fuel Share](figures/fuel_market_share.png)
-
----
-
-# Forecast Comparison
-
-![Forecast Comparison](figures/forecast_comparison.png)
-
----
 
 # Technologies
 
@@ -184,4 +168,4 @@ EIA923-Energy-Forecasting/
 
 # Author
 
-Your Name
+Panagiotis Karampoulis
